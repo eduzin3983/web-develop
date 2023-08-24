@@ -1,0 +1,1 @@
+This project is very basic, I used it to learn more about the basics of css and html

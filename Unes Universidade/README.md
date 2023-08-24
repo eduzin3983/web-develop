@@ -1,0 +1,1 @@
+this project was my first as a web developer, using only html to build a small website for a fictitious university and learn more about html
